@@ -1,6 +1,6 @@
 import random
 
-print("🎯 Welcome to Number Guessing Game!")
+print("Welcome to Number Guessing Game!")
 
 # Generate random number
 number = random.randint(1, 100)
