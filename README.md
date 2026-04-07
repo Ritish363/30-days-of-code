@@ -1,6 +1,3 @@
-# 30-days-of-code
-Daily coding challenge documenting concepts, practice, and mini-projects over 30 days.
-
 # Day 1 - Number Guessing Game 🎯
 
 This is a simple Python game where:
