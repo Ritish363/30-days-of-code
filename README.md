@@ -1,9 +1,12 @@
-# Day 1 - Number Guessing Game 🎯
+## Day 1 - Number Guessing Game
 
-This is a simple Python game where:
+* Built a simple guessing game using Python
+* Learned loops, conditions, and random module
 
-* The computer generates a random number between 1 and 100
-* The user tries to guess the number
-* The program gives hints (Too high / Too low)
+---
 
+## Day 2 - NumPy Basics 
 
+* Indexing and slicing
+* Basic operations
+* Mean calculation
