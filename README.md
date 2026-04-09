@@ -15,5 +15,5 @@
 
 ## Day 3 - NumPy Mini Project
 
-Used NumPy to analyze student marks data.
-Calculated total marks,mean and highest scores.
+* Used NumPy to analyze student marks data.
+* Calculated total marks,mean and highest scores.
