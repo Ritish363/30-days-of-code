@@ -10,3 +10,10 @@
 * Indexing and slicing
 * Basic operations
 * Mean calculation
+
+---
+
+## Day 3 - NumPy Mini Project
+
+Used NumPy to analyze student marks data.
+Calculated total marks,mean and highest scores.
