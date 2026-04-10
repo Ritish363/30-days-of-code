@@ -17,3 +17,10 @@
 
 * Used NumPy to analyze student marks data.
 * Calculated total marks,mean and highest scores.
+
+---
+
+## Day 4 - Pandas Basics
+
+Created a DataFrame and performed basic analysis like mean and maximum values.
+
