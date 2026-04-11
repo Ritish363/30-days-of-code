@@ -24,3 +24,10 @@
 
 Created a DataFrame and performed basic analysis like mean and maximum values.
 
+---
+
+## Day 5 - NumPy Statistics
+
+Used NumPy to generate random data and statistics like mean, standard deviation, minimum, and maximum.
+
+
