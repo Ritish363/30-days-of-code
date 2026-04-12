@@ -30,4 +30,8 @@ Created a DataFrame and performed basic analysis like mean and maximum values.
 
 Used NumPy to generate random data and statistics like mean, standard deviation, minimum, and maximum.
 
+---
 
+Day 6 - Java Quiz App
+
+Displays questions, takes user input, and shows the final score.
