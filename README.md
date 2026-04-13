@@ -35,3 +35,9 @@ Used NumPy to generate random data and statistics like mean, standard deviation,
 Day 6 - Java Quiz App
 
 Displays questions, takes user input, and shows the final score.
+
+---
+
+## Day 7 - Java Guessing Game
+
+The game provides feedback based on how close the guess is.
