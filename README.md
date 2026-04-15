@@ -42,7 +42,16 @@ Displays questions, takes user input, and shows the final score.
 
 The game provides feedback based on how close the guess is.
 
+---
 
 ## Day 8 - Python To-Do App
 
 Built a simple command-line to-do list application.
+
+---
+
+## Day 9 - Python ChatBot
+
+Built a simple chatbot in Python that responds based on user input.
+Handles basic queries like greetings, name, and current time.
+
