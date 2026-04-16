@@ -55,3 +55,11 @@ Built a simple command-line to-do list application.
 Built a simple chatbot in Python that responds based on user input.
 Handles basic queries like greetings, name, and current time.
 
+---
+
+## Day 10 - Tic Tac Toe
+
+Built a Tic Tac Toe game with an unbeatable AI using the Minimax algorithm.
+
+
+
