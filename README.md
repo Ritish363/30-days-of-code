@@ -61,5 +61,11 @@ Handles basic queries like greetings, name, and current time.
 
 Built a Tic Tac Toe game with an unbeatable AI using the Minimax algorithm.
 
+---
+
+## Day 11 - Code Explainer
+
+Built a Python tool that analyzes code and explains its structure.
+
 
 
